@@ -50,7 +50,7 @@ int main()
         std :: cout << "Entrer la precision \n";
         std :: cin >> p;
         a = a/57.2958 ;
-        for(i=1;i<=n;i++)
+        for(i=1;i<=p;i++)
             {
                 int m=i-1;
                 int h=2*i-1;
